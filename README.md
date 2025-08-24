@@ -38,6 +38,12 @@ This project is my first step towards web development, focusing on practicing la
 
 ## 👨‍💻 Author
 
-**Yash Patel**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashpatell7)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Yashu444)
+<p align="left">
+  <b>Yash Patel</b><br><br>
+  <a href="https://linkedin.com/in/yashpatell7">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Yashu444">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
