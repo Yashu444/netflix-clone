@@ -41,4 +41,5 @@ This project is my first step towards web development, focusing on practicing la
 **Yash Patel**
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yashpatell7)
+[![Twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://x.com/realYash_)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Yashu444)
