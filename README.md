@@ -6,7 +6,7 @@ This project is my first step towards web development, focusing on practicing la
 ---
 
 ## 🚀 Demo
-👉 [Live Demo on Vercel](https://netflix-homepage-yash.vercel.app/) 
+👉 [Live Demo on Vercel](https://demo-stream-project-yash.vercel.app/) 
 
 ---
 
